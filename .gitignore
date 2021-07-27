@@ -1,0 +1,5 @@
+#pipfile and pipfile.lock (virtualenv)
+Pipfile
+Pipfile.lock
+# database (sqlite3)
+db.sqlite3
